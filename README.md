@@ -1,0 +1,1 @@
+The scope of this project is to develop some command over the flutter basics and increasing the engagement of flutter learners with the new concepts such as spread, stateless and and statefull widgets. Also the concepts of oops was applied here and this app can be used to develop more similar applications which will eventually helps out in strenthening the concepts further.
